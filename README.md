@@ -44,16 +44,17 @@ Hacker-News-Web-Scraping/
 │
 ├── hackernews_scraper.py
 ├── hackernews_frontpage.csv
-└── README.md 
+└── README.md
 
 ---
 
 ## 🚀 How to Run
+### 1️⃣ Install required libraries
 
-- **1️⃣ Install required libraries** –
+```bash
 pip install requests beautifulsoup4 pandas
 
-- **2️⃣ Run the scraper** –
+### 2️⃣ Run the scraper
 python hackernews_scraper.py
 
 ---
